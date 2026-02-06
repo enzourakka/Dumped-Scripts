@@ -5,243 +5,329 @@
 //POINTER #0 @ $DB29 - STRING #0 @ $DB67
 
 #W16($DB29)
-���[�� �悭����.�����[LN]
-��₷��āJ������傭��[LN]
-�����ӂ��Ȃ���.[ED]
+おーっ よくきた.ゆっく[LN]
+りやすんて゛たいりょくを[LN]
+かいふくなさい.[ED]
 
+Heyy, you've returned.
+Rest a while and recover your strength.
 
 //POINTER #1 @ $DB2B - STRING #1 @ $DB8A
 
 #W16($DB2B)
-*���񂵂̂��񂵂傤*��[LN]
-�����Ă��邩��.�܂��J��[LN]
-���J�݂��J�キ���J�̂�.[ED]
+*せんしのもんしょう*を[LN]
+もっているかい.また゛ま[LN]
+た゛みし゛ゅくた゛のう.[ED]
+
+Do you have the 
+Warrior's Crest?
+You've still got much to learn.
 
 
 //POINTER #2 @ $DB2D - STRING #2 @ $DBB1
 
 #W16($DB2D)
-������ ���񂵂�.�����[LN]
-���Ȃ��ɂ����J���悤.[ED]
+おうっ せんしよ.これを[LN]
+そなたにさす゛けよう.[ED]
 
+Hey, Warrior.
+I will grant you this.
 
 //POINTER #3 @ $DB2F - STRING #3 @ $DBCA
 
 #W16($DB2F)
-����*�����肩�J��*���J[LN]
-���ЁJ�̂₭�ɂ��āJ��[LN]
-�낤.[ED]
+この*くさりか゛ま*か゛[LN]
+たひ゛のやくにたつて゛あ[LN]
+ろう.[ED]
 
+This Kusarigama 
+will aid you on 
+your journey.
 
 //POINTER #4 @ $DB31 - STRING #4 @ $DBE8
 
 #W16($DB31)
-�킵��*����ƁJ��*����[LN]
-*�����J�̂�������*����[LN]
-�Ȃ��ɂ����J���悤.[ED]
+わしは*いんと゛ら*この[LN]
+*かせ゛のかっしゃ*をそ[LN]
+なたにさす゛けよう.[ED]
 
+I am an Indra.
+I will grant you this
+Wind Pulley.
 
 //POINTER #5 @ $DB33 - STRING #5 @ $DC0D
 
 #W16($DB33)
-�킵��*����ƁJ��*����[LN]
-*�ق̂��̂فJ�[���J��*[LN]
-�������J���悤.[ED]
+わしは*いんと゛ら*この[LN]
+*ほのおのほ゛ーか゛ん*[LN]
+をさす゛けよう.[ED]
 
+I am an Indra.
+I will grant you this
+Blazing Bowgun.
 
 //POINTER #6 @ $DB35 - STRING #6 @ $DC30
 
 #W16($DB35)
-�킵��*����ƁJ��*����[LN]
-*����ƁJ��̂�낢*��[LN]
-�݂ɂ� ����������.[ED]
+わしは*いんと゛ら*この[LN]
+*いんと゛らのよろい*を[LN]
+みにつけ たたかえっ.[ED]
 
+I am an Indra.
+Don this Indra's 
+Armor and fight!
 
 //POINTER #7 @ $DB37 - STRING #7 @ $DC56
 
 #W16($DB37)
-�킵��*����ƁJ��*����[LN]
-*���񂵂̂��񂵂傤*��[LN]
-���Ȃ��ɂ����J���悤.[ED]
+わしは*いんと゛ら*この[LN]
+*せんしのもんしょう*を[LN]
+そなたにさす゛けよう.[ED]
 
+I am an Indra.
+I will grant you the 
+Warrior's Crest.
 
 //POINTER #8 @ $DB39 - STRING #8 @ $DC7C
 
 #W16($DB39)
-����*�ӂ�*�� ���J���J[LN]
-�傤�݂̂���*�炢��̂�[LN]
-��*�āJ�ӂ����J�悢.[ED]
+この*ふえ*を か゛し゛[LN]
+ょうのみえる*らいるのと[LN]
+う*て゛ふくか゛よい.[ED]
 
+You should play this flute 
+where the Tower of Lyre 
+is in view.
 
 //POINTER #9 @ $DB3B - STRING #9 @ $DCA2
 
 #W16($DB3B)
-���̂��܂̂����ɂ݂����[LN]
-��*�ƁJ�炱�J�̂���āJ[LN]
-��*�ւ̂��肭�J�����J.[ED]
+このしまのきたにみえるの[LN]
+は*と゛らこ゛のしんて゛[LN]
+ん*へのいりく゛ちた゛.[ED]
 
+North of this island, 
+the entrance to Drago's 
+Temple can be seen.
 
 //POINTER #10 @ $DB3D - STRING #10 @ $DCC9
 
 #W16($DB3D)
-�����肤���� *������[LN]
-���J��*���J�Ȃ��Ƃ䂯��[LN]
-���J.[ED]
+これよりうえは *くさり[LN]
+か゛ま*か゛ないとゆけぬ[LN]
+そ゛.[ED]
 
+This is as far as 
+you can go without 
+a Kusarigama.
 
 //POINTER #11 @ $DB3F - STRING #11 @ $DCE7
 
 #W16($DB3F)
-*���J��낹�J��*�ւ���[LN]
-����*�ɂ�*����*�̂��J[LN]
-���ɂ�����.[ED]
+*け゛るろせ゛お*へいっ[LN]
+たら*にし*きた*のし゛[LN]
+ゅんにすすめ.[ED]
 
+When you get to Gelrozeo,
+you should go West, 
+then North.
 
 //POINTER #12 @ $DB41 - STRING #12 @ $DD09
 
 #W16($DB41)
-���̂�*��邹�ɂ�*�̂�[LN]
-�񂭂���*���J���J�傤*[LN]
-�͂���Ƃ������J.[ED]
+このち*ろるせにあ*のて[LN]
+んくうに*か゛し゛ょう*[LN]
+はあるというか゛.[ED]
 
+Lorcenia is said to be
+a fortress in the skies.
 
 //POINTER #13 @ $DB43 - STRING #13 @ $DD2D
 
 #W16($DB43)
-*���J�炩�J�񂽁J*�̂�[LN]
-�܂ɂ�*���J��낹�J��*[LN]
-�ւ̂��肭�J�����J����.[ED]
+*か゛らか゛んた゛*のや[LN]
+まには*け゛るろせ゛お*[LN]
+へのいりく゛ちか゛ある.[ED]
 
+At the entry to Gelrozeo 
+is the way into 
+Garaganda Mountain.
 
 //POINTER #14 @ $DB45 - STRING #14 @ $DD54
 
 #W16($DB45)
-���̂���*�فJ�[���J��*[LN]
-���J�Ȃ��Ƃ䂩��ʂ��J.[ED]
+このさき*ほ゛ーか゛ん*[LN]
+か゛ないとゆかれぬそ゛.[ED]
 
+It is necessary to have
+a Bowgun past this point.
 
 //POINTER #15 @ $DB47 - STRING #15 @ $DD6E
 
 #W16($DB47)
-���̂�܂̂����ɂ��ЁJ��[LN]
-����*���J��́J�̂Ƃ�*[LN]
-�ɂ͂����J����.[ED]
+このやまのうえにそひ゛え[LN]
+たつ*か゛るは゛のとう*[LN]
+にはちかつ゛くな.[ED]
 
+Best not to approach
+Galba's Tower which
+rises above this mountain.
 
 //POINTER #16 @ $DB49 - STRING #16 @ $DD92
 
 #W16($DB49)
-���̂��J���J�傤�ւ�����[LN]
-��5�ɂ��*����ƁJ��*[LN]
-�ɂ���˂́J�Ȃ��.[ED]
+あのか゛し゛ょうへいくに[LN]
+は5にんの*いんと゛ら*[LN]
+にあわねは゛ならぬ.[ED]
 
+To reach that fortress,
+you must first visit
+the five Indora.
 
 //POINTER #17 @ $DB4B - STRING #17 @ $DDB7
 
 #W16($DB4B)
-�����́J�񂤂��̂ƁJ����[LN]
-�� �܂������J�����ނ�[LN]
-*�䂤��*���J�݂��邻�J[ED]
+いちは゛んうえのと゛うく[LN]
+つを まっすく゛すすむと[LN]
+*ゆうひ*か゛みえるそ゛[ED]
 
+You can see the sunset if
+you head directly to the
+topmost area of the cave.
 
 //POINTER #18 @ $DB4D - STRING #18 @ $DDDE
 
 #W16($DB4D)
-���̂���̂����ӂ����ɂ�[LN]
-*���邩�J*�Ƃ����܂���[LN]
-���J����āJ���邻�J.[ED]
+このもりのおくふかくには[LN]
+*えるか゛*というまもの[LN]
+か゛すんて゛おるそ゛.[ED]
 
+The monster Elga lives
+deep inside this forest.
 
 //POINTER #19 @ $DB4F - STRING #19 @ $DE04
 
 #W16($DB4F)
-�����ƁJ�܂肵�J��.[LN]
-�ق��݂̂����䂫�Ȃ���.[ED]
+いきと゛まりし゛ゃ.[LN]
+ほかのみちをゆきなさい.[ED]
 
+This is a dead end.
+Take another path.
 
 //POINTER #20 @ $DB51 - STRING #20 @ $DE1C
 
 #W16($DB51)
-����*���ЁK����*�āJ[LN]
-��*�����肩�J��*���J��[LN]
-���Ƃ����߂ʂ��J.[ED]
+この*らるひ゜うす*て゛[LN]
+は*くさりか゛ま*か゛な[LN]
+いとすすめぬそ゛.[ED]
 
+Don't head to 
+Larupius without a 
+Kusarigama.
 
 //POINTER #21 @ $DB53 - STRING #21 @ $DE40
 
 #W16($DB53)
-�����܂āJ�悭�����̂�.[LN]
-���J�Ⴉ�J �������炩�J[LN]
-�����ւ񂵁J��.��͂͂�[ED]
+ここまて゛よくきたのう.[LN]
+し゛ゃか゛ ここからか゛[LN]
+たいへんし゛ゃ.わははは[ED]
 
+Youve made it this far.
+But things only get harder 
+from here.  Wahahaha!
 
 //POINTER #22 @ $DB55 - STRING #22 @ $DE67
 
 #W16($DB55)
-�����������ւ���Ȃ���.[LN]
-*���ЁK����*�͂����J[LN]
-�������J��.[ED]
+ここをしたへおりなさい.[LN]
+*らるひ゜うす*はすく゛[LN]
+そこし゛ゃ.[ED]
 
+Go down from here.
+Larpius is nearby.
 
 //POINTER #23 @ $DB57 - STRING #23 @ $DE88
 
 #W16($DB57)
-*�ƁJ�炱�J*�ɂ�������[LN]
-�����Ă��� �킵�̂ނ���[LN]
-���������Ƃ�.����������[ED]
+*と゛らこ゛*にあったら[LN]
+いってくれ わしのむすめ[LN]
+をかえせとな.うっううう[ED]
 
+If you're going to meet Drago
+Please bring back my daughter.
+Uuuuu~
 
 //POINTER #24 @ $DB59 - STRING #24 @ $DEAF
 
 #W16($DB59)
-���ɂ�ӁJ��Ă��񂩁J��[LN]
-�� ����͂�ɂ��� �[�[[LN]
-�������ނ����͂悩����.[ED]
+くにやふ゛れてさんか゛あ[LN]
+り しろはるにして ーー[LN]
+ああっむかしはよかった.[ED]
 
+Though the nation is torn apart, 
+the mountains and rivers remain --
+Ah, how good were the olden days.
 
 //POINTER #25 @ $DB5B - STRING #25 @ $DED6
 
 #W16($DB5B)
-���̂�����*�����̂���*[LN]
-�āJ ����ɂ�ɂ����Ȃ�[LN]
-��.[ED]
+このさきの*ししのたき*[LN]
+て゛ せんにんにあいなさ[LN]
+れ.[ED]
+
+Beyond the Lion Falls,
+heed the advice 
+of the hermits.
 
 
 //POINTER #26 @ $DB5D - STRING #26 @ $DEF3
 
 #W16($DB5D)
-��[�܂͂��납�J�ˁ[����[LN]
-�Ђ����ЁJ���ā[.������[LN]
-�����[�ւ䂫�������J��.[ED]
+やーまはしろか゛ねーあさ[LN]
+ひをあひ゛いてー.ああっ[LN]
+すきーへゆきたいせ゛よ.[ED]
 
+Basking in a mountain's 
+dawning silvery light.
+Ah, I long to visit such a place.
 
 //POINTER #27 @ $DB5F - STRING #27 @ $DF1A
 
 #W16($DB5F)
-*�炢���J�[*�������� [LN]
-*���邱�J�[��*�ɂւ���[LN]
-�� �Ƃ���ƁJ���Ă���.[ED]
+*らいか゛ー*をたおし [LN]
+*あるこ゛ーる*にへいわ[LN]
+を とりもと゛してくれ.[ED]
 
+Peace will return to Argol
+when Ligar is defeated.
 
 //POINTER #28 @ $DB61 - STRING #28 @ $DF41
 
 #W16($DB61)
-5�ɂ��*����ƁJ��*��[LN]
-���� �������������.[ED]
+5にんの*いんと゛ら*に[LN]
+あい ちからをかりよっ.[ED]
 
+Meet with the five Indra
+and borrow their strength.
 
 //POINTER #29 @ $DB63 - STRING #29 @ $DF5B
 
 #W16($DB63)
-*���J��́J�̂Ƃ�*�� [LN]
-���傤�Ă����J�낢.����[LN]
-���ق����́J��������.[ED]
+*か゛るは゛のとう*は [LN]
+きょうてきそ゛ろい.いの[LN]
+ちほしくは゛ちかよるな.[ED]
 
+Galba's Tower is formidable.
+Stay away if you want to live. 
 
 //POINTER #30 @ $DB65 - STRING #30 @ $DF82
 
 #W16($DB65)
-���܂� ���J���J��2���J[LN]
-�܂��̂������J��݂��J��[LN]
-�邵�J�������J��.[ED]
+いまは こ゛せ゛ん2し゛[LN]
+まものたちか゛よみか゛え[LN]
+るし゛こくし゛ゃ.[ED]
+
+It's been almost two decades
+since the monsters returned
+to our country.
 
